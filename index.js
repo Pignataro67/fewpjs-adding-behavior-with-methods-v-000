@@ -30,5 +30,4 @@ class Bird {
     return this.type == "male"? `It's me! ${this.name}, the parrot!` :
     `${this.name} says squawk!`
   }
-
 }
